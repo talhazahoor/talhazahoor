@@ -113,9 +113,8 @@ Full Stack Developer with **4+ years** specializing in React/Next.js frontends a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=talhazahoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" alt="GitHub stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhazahoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" alt="Top languages" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhazahoor&theme=tokyonight" alt="GitHub profile details" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhazahoor&theme=tokyonight" alt="Top languages" height="180"/>
 
 <br/>
 
@@ -123,7 +122,8 @@ Full Stack Developer with **4+ years** specializing in React/Next.js frontends a
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=talhazahoor&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talhazahoor&theme=tokyonight" alt="GitHub stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talhazahoor&theme=tokyonight" alt="Contribution activity" height="180"/>
 
 <br/>
 
