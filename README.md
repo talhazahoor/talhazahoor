@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=thetalhazahoor&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=talhazahoor&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thetalhazahoor)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thetalhazahoor@gmail.com)
@@ -113,21 +113,21 @@ Full Stack Developer with **4+ years** specializing in React/Next.js frontends a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thetalhazahoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=talhazahoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" alt="GitHub stats" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetalhazahoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" alt="Top languages" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=thetalhazahoor&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=a78bfa" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhazahoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" alt="Top languages" height="165"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=thetalhazahoor&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://streak-stats.demolab.com?user=talhazahoor&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=a78bfa" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thetalhazahoor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&height=300" alt="Contribution activity graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=talhazahoor&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhazahoor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&height=300" alt="Contribution activity graph" />
 
 </div>
 
@@ -136,9 +136,9 @@ Full Stack Developer with **4+ years** specializing in React/Next.js frontends a
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetalhazahoor/thetalhazahoor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thetalhazahoor/thetalhazahoor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thetalhazahoor/thetalhazahoor/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhazahoor/talhazahoor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhazahoor/talhazahoor/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/talhazahoor/talhazahoor/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
