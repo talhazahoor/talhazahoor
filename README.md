@@ -109,40 +109,6 @@ Full Stack Developer with **4+ years** specializing in React/Next.js frontends a
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhazahoor&theme=tokyonight" alt="GitHub profile details" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhazahoor&theme=tokyonight" alt="Top languages" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=talhazahoor&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=a78bfa" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talhazahoor&theme=tokyonight" alt="GitHub stats" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talhazahoor&theme=tokyonight" alt="Contribution activity" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhazahoor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&height=300" alt="Contribution activity graph" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhazahoor/talhazahoor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhazahoor/talhazahoor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/talhazahoor/talhazahoor/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 💼 Work Experience
 
 ```text
